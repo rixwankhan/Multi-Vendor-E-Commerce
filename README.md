@@ -1,2 +1,2 @@
 # Multi-Vendor-E-Commerce
-Multi Vendor and Multi Store E-commerce system, Every vendor has it's own store front. 
+If you are looking for Multi-Vendor E Commerce website contact me at akhanriz@gmail.com
