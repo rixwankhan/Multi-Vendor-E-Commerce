@@ -55,3 +55,10 @@ The estimated budget for this project is $65,000 - $75,000, which includes devel
 
 ### Conclusion:
 The Multi-Vendor Custom E-Commerce Store project promises to create an exciting and innovative platform for vendors and customers alike. It aims to provide a tailored shopping experience, foster collaboration among multiple vendors, and offer a secure and user-friendly environment for online commerce. This venture represents a significant opportunity for e-commerce success, growth, and profitability.
+
+### Live URL and Client info:
+**Client Name:** Kevin R.
+
+**Website:** https://www.digitalsolutionpros.com
+
+Looking for a Custom E-Commerce store? Contact me at riz@apipilot.com
